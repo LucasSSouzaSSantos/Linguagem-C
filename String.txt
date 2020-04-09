@@ -1,0 +1,1 @@
+Eu quero que essa mensagem seja escrita na tela do terminal
